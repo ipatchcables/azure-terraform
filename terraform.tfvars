@@ -1,6 +1,6 @@
 #az account list --output table
 
-azure-sub-id="ver"
+azure-sub-id="var"
 azure-client-id="var"
 azure-tenant-id="var"
 azure-client-secret="var"
